@@ -2,8 +2,8 @@ const flags = require('./flags');
 
 console.log("--- Running... ---");
 
-if (flags.NEW_DASHBOARD) {
-  console.log("New Dashboard Enabled");
+if (flags.NEW_FEATURE) {
+  console.log("New feature enabled");
 } else {
-  console.log("Old Dashboard Enabled");
+  console.log("New feature disabled");
 }

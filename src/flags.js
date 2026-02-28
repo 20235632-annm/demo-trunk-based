@@ -1,4 +1,4 @@
 const flags = {
-  NEW_DASHBOARD: false, // Tinh nang dang phat trien
+  NEW_FEATURE: false, // Tinh nang dang phat trien
 };
 module.exports = flags;
